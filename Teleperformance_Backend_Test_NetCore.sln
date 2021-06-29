@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teleperformance_Backend_Test_NetCore", "Teleperformance_Backend_Test_NetCore\Teleperformance_Backend_Test_NetCore.csproj", "{5A2A38FA-5AB4-4E87-80A1-4E7EA460A5A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teleperformance_Backend_Test_NetCore_Test", "Teleperformance_Backend_Test_NetCore_Test\Teleperformance_Backend_Test_NetCore_Test.csproj", "{9754BD9C-B01E-4129-87B8-295D3118B112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A2A38FA-5AB4-4E87-80A1-4E7EA460A5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2A38FA-5AB4-4E87-80A1-4E7EA460A5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2A38FA-5AB4-4E87-80A1-4E7EA460A5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2A38FA-5AB4-4E87-80A1-4E7EA460A5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9754BD9C-B01E-4129-87B8-295D3118B112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9754BD9C-B01E-4129-87B8-295D3118B112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9754BD9C-B01E-4129-87B8-295D3118B112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9754BD9C-B01E-4129-87B8-295D3118B112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6232F04-1F7F-4620-8C8B-150581E49B4D}
+	EndGlobalSection
+EndGlobal
