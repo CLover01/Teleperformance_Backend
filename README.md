@@ -1,7 +1,6 @@
 # Teleperformance_Backend
 Backend tests for Teleperformance
 
-3 questions:
 Question1: 
 A purchasing manager needs to buy a certain number of units of an item to replenish the warehouse. The main supplier has a list of containers, each with a number of units. The manager must purchase contiguous containers, starting with container 0 and continuing until at least the desired number has been purchased. If not enough units are available, they should be purchased from another supplier. If any surplus units are to be purchased, they should be resold. Determine the remaining number of units to buy or sell after purchasing from the main supplier.
 
